@@ -1,0 +1,220 @@
+/* HTML tags */
+
+body{
+  font-family: "Play", "sans-serif";
+  color:#1B1C25;
+  padding: 0;
+  margin-right: 0;
+}
+
+hr {
+  margin: 30px auto 30px auto;
+  color: #EBECF1;
+  border-style: none;
+  border-top: 5px dotted;
+  width: 50%;
+}
+/* Navigation Bar */
+
+.titlenav{
+  padding: 0;
+}
+
+.navbarhome{
+
+  font-size: 1.5rem;
+  color: rgba(255,255,255,.5);
+
+}
+
+.logo{
+border-radius: 20%;
+height: 55px;
+
+}
+
+
+.lang-navbar{
+  text-align: left;
+  padding: 0 5px 0;
+
+}
+
+
+/* Title section */
+.titlerow{
+position: relative;
+text-align: center;
+background-color: #EBECF1;
+margin-right: 0;
+padding-top: 4%;
+}
+
+.titletext{
+  padding: 10% 0% 10% 10%;
+  text-align: right;
+  font-size: 1.2rem;
+  color:#206a5d;
+}
+
+.titlefotocontainer{
+  margin: auto;
+
+}
+
+.titlefoto{
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
+
+}
+
+/* service section */
+
+#Servicios{
+  color: #206a5d;
+
+.}
+
+
+.stservicios{
+  margin: 3% auto;
+  text-align: center;
+}
+
+.cardserv{
+  height: 420px;
+}
+
+.card-textcer{
+  margin-bottom: 10px;
+}
+
+.card-textdj{
+  margin-bottom: 40px;
+}
+
+.card-textld{
+  margin-bottom: 65px;
+}
+
+/* References Section */
+
+#Referencias{
+  background-color: #EBECF1;
+  height: 500px;
+  color: #206a5d;
+}
+
+.carousel-item{
+  padding: 4%;
+
+}
+
+.streferencias{
+  margin: 3% auto;
+  text-align: center;
+  padding-top: 5%;
+
+  }
+
+.cuota{
+  font-family: "Marck Script"
+}
+
+.carousel-control-next, .carousel-control-prev {
+    filter: invert(100%);
+}
+
+
+.Firmareferencia{
+  text-align: right;
+  }
+
+.Textoreferencias{
+  height: 25%;
+  width: 50%;
+  margin: auto;
+  color: #206a5d;
+}
+
+/* Price Section */
+
+.precios{
+  margin: 3% auto 3%;
+  text-align: center;
+}
+
+/* Contacto */
+
+#Contacto{
+  background-color: #fff;
+  text-align: center;
+  height: 250px;
+  padding-top: 4%;
+  padding-bottom: 0px;
+
+}
+
+#Contacto1{
+  background-color: #EBECF1;
+  text-align: center;
+  height: 250px;
+  padding-top: 4%;
+  padding-bottom: 0px;
+}
+.footer-icons{
+  margin: 2% 5%;
+  color: #206a5d;
+}
+
+
+/* Sub pagina Servicios */
+
+.subpa-servicios{
+  padding: 10% 3% 7% 3%;
+  background-color: #FFFFFF;
+}
+
+.certificados-list{
+  padding: 0;
+  margin: 0;
+}
+
+
+
+/* Sub pagina CV */
+
+.subpa-cv{
+    margin: 0;
+    padding: 0;
+
+}
+
+.header-CV{
+  text-align: left;
+  padding: 10% 20% 1% 20%;
+  background-color: #EBECF1;
+  color: #206a5d;
+  font-size: 1.2rem;
+
+}
+
+.table-cv{
+  padding: 2% 20% 2% 20%;
+
+}
+
+.anos-cv{
+  margin:0;
+}
+
+.subtit_cv{
+  text-align: center;
+  color: #206a5d;
+  font-size: 2rem;
+}
+
+.experiencia_tradus{
+  text-align: left 30px;
+}
